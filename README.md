@@ -9,7 +9,8 @@ My focus is on **Java, Spring Boot, Microservices, and DevOps** — crafting sof
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Sc. in Computer Science** at *University of the People*  
+- 🎓 Pursuing **B.Sc. in Computer Science** at *University of the People*
+- 🎓 Studied **M.B.,B.S.** at *University of Medicine-2, Yangon*
 - ☕ Skilled in **Java**, **Spring Boot**, **Hibernate**, **JPA**, **Servlets**, and **JSP**  
 - 🗃️ Experienced with **MySQL** and **PostgreSQL**  
 - 🐳 Exploring **Docker**, **Linux**, and **DevOps pipelines**  
